@@ -1,6 +1,6 @@
 # Next Big Project :
-# “Blox”
+## “Blox”
 
-1.Layout design ;
-2.Overall functionalities (to be implemented);
-3. Web / App development (front( C# ) and back(dont know for the moment));
+1.Layout design ;<br/>
+2.Overall functionalities (to be implemented);<br/>
+3. Web / App development (front( C# ) and back(dont know for the moment));<br/>
