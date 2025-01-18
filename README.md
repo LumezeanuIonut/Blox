@@ -1,5 +1,5 @@
-#Next Big Project :
-#“Blox”
+# Next Big Project :
+# “Blox”
 
 1.Layout design ;
 2.Overall functionalities (to be implemented);
